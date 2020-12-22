@@ -1,4 +1,5 @@
-def main():
-    print("Hello, my name is Konrad.")
+print()
+def main(name):
+    print(f"Hello, my name is {name}.")
 
-main() #call main() function
+main("Konrado") #call <main(name)> function
