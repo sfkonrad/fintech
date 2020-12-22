@@ -1,5 +1,5 @@
 print()
 def main(name):
-    print(f"Hello, my name is {name}.")
+    print(f"Hello, my name is {name}-o.")
 
-main("Konrado") #call <main(name)> function
+main("Konrad") #call <main(name)> function with an "-o"
