@@ -1,4 +1,6 @@
-def main():
-    print("Hello, my name is Konrad.")
+print()
+def main(name):
+    print(f"Hello, my name is {name}-o.")
 
-main()
+main("Konrad") #call <main(name)> function with an "-o"
+
