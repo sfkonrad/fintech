@@ -1,5 +1,6 @@
 print()
 def main(name):
-    print(f"Hello, my name is {name}.")
+    print(f"Hello, my name is {name}-oo.")
 
-main("Konrado") #call <main(name)> function
+main("Konrad") #call <main(name)> function
+#from remote
